@@ -13,7 +13,7 @@ export const Logo = (props: { className?: string; color?: boolean }) => {
           props.className,
         )}
       >
-        Rallly
+        Scheduling
       </span>
       {process.env.NEXT_PUBLIC_BETA === "1" ? (
         <span className="ml-2 inline-block rounded bg-rose-500 px-1 text-xs lowercase tracking-tight text-slate-50">

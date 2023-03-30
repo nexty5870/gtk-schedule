@@ -10,22 +10,22 @@ const sidebarWidth = 180;
 const columnWidth = 100;
 const participants = [
   {
-    name: "Reed",
+    name: "Anna",
     color: "bg-sky-500",
     votes: [0, 2],
   },
   {
-    name: "Susan",
+    name: "Aneta",
     color: "bg-blue-500",
     votes: [0, 1, 2],
   },
   {
-    name: "Johnny",
+    name: "Quentin",
     color: "bg-primary-500",
     votes: [2, 3],
   },
   {
-    name: "Ben",
+    name: "Kamil",
     color: "bg-purple-500",
     votes: [0, 1, 2, 3],
   },
