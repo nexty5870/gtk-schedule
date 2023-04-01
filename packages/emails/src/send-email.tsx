@@ -91,7 +91,7 @@ export const sendEmail = async <T extends TemplateName>(
   try {
     await sendRawEmail({
       from: {
-        name: "Rallly",
+        name: "Scheduling",
         address: process.env.SUPPORT_EMAIL,
       },
       to: options.to,
